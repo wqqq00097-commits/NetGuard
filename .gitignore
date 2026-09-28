@@ -1,0 +1,17 @@
+## Visual Studio / MSBuild
+.vs/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Build Output (leave release binary or ignore)
+bin/Debug/
+*.pdb
+
+## OS Files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
